@@ -1,0 +1,26 @@
+{
+    "appclips":{
+        "apps":["A123.com.abc.def.clips"]
+    },
+    "applinks":{
+        "apps":[
+        ],
+        "details":{
+            "A123.com.abc.def":{
+                "paths":[
+                    "*" // 這裡的Path根據實際情況配置即可
+                ]
+            }
+        }
+    },
+    "webcredentials":{
+        "apps":[
+            "A123.com.abc.def",
+        ]
+    },
+    "activitycontinuation":{
+        "apps":[
+            "A123.com.abc.def",
+        ]
+    }
+}
